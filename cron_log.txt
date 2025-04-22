@@ -1,0 +1,15 @@
+TASK for tom.
+
+
+Admiral system using task scheduler
+-pull the health and speed test data from the api
+
+
+Admiral system using PHP
+-organize the date in speed test (decrement).
+
+
+Data Lake Website
+-DL and modify the website.
+
+last id = 725
